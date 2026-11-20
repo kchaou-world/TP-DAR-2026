@@ -17,4 +17,7 @@ lancement du client avec les données du test :
 5-tenter d'extraire des info d'un compte inexistant.
 ![img_2.png](img_2.png)
 
+Version avec JNDI
 
+BanqueClient.java
+![img_3.png](img_3.png)
