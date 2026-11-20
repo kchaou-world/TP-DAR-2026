@@ -8,3 +8,7 @@ BanqueServer.java
 ![img_3.png](img_3.png)
 lancement du serveur
 ![img_4.png](img_4.png)
+
+Version JNDI:
+BanqueServeur.java
+![img_5.png](img_5.png)
